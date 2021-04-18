@@ -1,10 +1,8 @@
-# UCI_CpuPerformance_Regression-
-Regression using UCI CpuSet
+
+
 
 DataSet:
-you can get data via
 
- > `df = pd.read_csv('./machine.data', sep=',', header=None)`
 
 DataSet Attribute Information:
 1. vendor name: 30
